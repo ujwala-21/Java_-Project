@@ -1,0 +1,6 @@
+﻿.m2/
+maven/
+reset_mysql_password.bat
+db.properties
+target/
+*.log
