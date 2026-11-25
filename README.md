@@ -1,5 +1,5 @@
 DRIVE LINK
-[https://canva.link/dm7y82v5t5e84e2](url)
+https://canva.link/dm7y82v5t5e84e2
 # 📚 BookLoop – Smart Student Book Exchange & E-Commerce Management System
 
 > **Tagline:** *"Your old books. Someone else's next semester."*  
